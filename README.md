@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasanshasureka
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me : email at prasanshasureka98@gmail.com
 
 <!---
