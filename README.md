@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasanshasureka
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning React Redux
 - 📫 How to reach me : email at prasanshasureka98@gmail.com
 
 <!---
