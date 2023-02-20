@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasanshasureka
-- 👀 I’m interested in frontend development using Javascript and React
-- 🌱 I’m currently learning Redux
+- 👀 I’m a frontend developer working on Javascript, React, Redux
+- 🌱 I’m currently learning GraphQL
 - 📫 How to reach me : email at prasanshasureka98@gmail.com
 
 <!---
